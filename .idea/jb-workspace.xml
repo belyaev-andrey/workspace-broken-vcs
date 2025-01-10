@@ -4,6 +4,9 @@
     <project name="docker-infra" path="$PROJECT_DIR$/../feature-tracker/docker-infra">
       <vcs id="Git" remoteUrl="https://github.com/feature-tracker/docker-infra.git" />
     </project>
+    <project name="feature-service" path="$PROJECT_DIR$/../feature-tracker/feature-service">
+      <vcs id="Git" remoteUrl="https://github.com/feature-tracker/feature-service.git" />
+    </project>
     <option name="workspace" value="true" />
   </component>
 </project>
